@@ -65,7 +65,12 @@ Results are stored in `results/`:
 
 ## Structure
 
-project/ ├── data/ ├── results/ ├── checkpoints/ ├── src/ ├── README.md
+project/
+├── data/ 
+├── results/ 
+├── checkpoints/
+├── src/ 
+├── README.md
 └── requirements.txt
 
 ## Dependencies
